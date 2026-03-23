@@ -20,7 +20,7 @@ Key Microsoft products in use:
 
 - **Eclipse Data Connector (EDC)** — the IDS connector implementation used for data exchange (same as Catena-X)
 - IDS/Gaia-X compliant data space infrastructure
-- See `massivplus/architecture/` for technical detail
+- See `massivplus/architecture/` for technical details
 
 ## Partnerships
 
