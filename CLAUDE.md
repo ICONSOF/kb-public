@@ -9,21 +9,12 @@ This is the central knowledge base for Icons Of. Use this file as a routing tabl
 | What Icons Of is and does | `company/overview.md` |
 | Team members and competencies | `company/team.md` |
 | Technology stack | `company/tech-stack.md` |
-| MASSIV+ project summary | `massivplus/overview.md` |
-| User personas (Erik, Nisse, Ronja, Anna) | `massivplus/personas.md` |
-| Work packages (AP1–AP6) | `massivplus/work-packages.md` |
-| Consortium partners | `massivplus/partners.md` |
-| Data model (CCDM) | `massivplus/architecture/data-model.md` |
-| Data space infrastructure | `massivplus/architecture/data-spaces.md` |
-| AI agent design (AP3) | `massivplus/architecture/ai-agent.md` |
-| Platform UX and role-based views | `massivplus/architecture/platform-ux.md` |
-| Architecture decisions (ADRs) | `massivplus/architecture/decisions.md` |
-| Pilot plan and SME targets | `massivplus/deliverables/pilot-plan.md` |
-| KPIs and success metrics | `massivplus/deliverables/kpis.md` |
 | GHG Protocol, Scope 1/2/3, PCF | `standards/ghg-protocol.md` |
 | CSRD overview | `standards/csrd-overview.md` |
 | ESRS E1 (climate disclosure) | `standards/esrs-e1.md` |
 | IDS / Gaia-X technical standards | `standards/ids-gaia-x.md` |
+
+> **MASSIV+ docs have moved.** All MASSIV+ content (personas, work packages, architecture, deliverables) is now in the private `kb-massivplus` repo. See that repo's `CLAUDE.md` for its routing table.
 
 ## Key concepts
 
