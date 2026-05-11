@@ -2,7 +2,7 @@
 
 ## What we are
 
-Icons Of is a native AI company turning sustainability data into real business value. Based in Onsala (Kungsbacka), Sweden. We combine expertise in data science, AI, business applications, and sustainability to help organisations navigate EU sustainability reporting requirements and turn ESG data into measurable business impact.
+Icons Of is a native AI company turning sustainability data into real business value. Based in Onsala (Kungsbacka), Sweden, we operate in the sustainability data industry. We combine expertise in data science, AI, business applications, and sustainability to serve organisations that need to handle sustainability information demands — from customers, financiers, risk, and regulators — and gain control of their sustainability performance to reduce their impact.
 
 **Website:** iconsof.se | **Org nr:** 559433-3592
 
